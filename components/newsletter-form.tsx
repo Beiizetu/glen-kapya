@@ -15,7 +15,9 @@ import {
 import { Input } from "@/components/ui/input"
 import { useLanguage } from "@/context/language-context"
 import { toast } from "@/components/ui/use-toast"
-import { Mail } from "lucide-react"
+import { Mail, Loader2 } from "lucide-react"
+import { saveToFirestore } from "@/lib/firebase"
+import { useState } from "react"
 
 const formSchema = z.object({
   email: z.string().email({
@@ -26,6 +28,7 @@ const formSchema = z.object({
 
 export function NewsletterForm() {
   const { t } = useLanguage()
+  const [isLoading, setIsLoading] = useState(false)
 
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
@@ -35,16 +38,30 @@ export function NewsletterForm() {
     },
   })
 
-  function onSubmit(values: z.infer<typeof formSchema>) {
-    // Here you would typically send the form data to your newsletter service
-    console.log(values)
-    
-    toast({
-      title: t("newsletter.successTitle"),
-      description: t("newsletter.successMessage"),
-    })
-    
-    form.reset()
+  async function onSubmit(values: z.infer<typeof formSchema>) {
+    setIsLoading(true)
+    try {
+      await saveToFirestore("newsletterSubscribers", {
+        email: values.email,
+        name: values.name || "",
+        subscribedAt: new Date().toISOString()
+      })
+      
+      toast({
+        title: t("newsletter.successTitle"),
+        description: t("newsletter.successMessage"),
+      })
+      
+      form.reset()
+    } catch (error) {
+      toast({
+        title: t("newsletter.errorTitle"),
+        description: t("newsletter.errorMessage"),
+        variant: "destructive"
+      })
+    } finally {
+      setIsLoading(false)
+    }
   }
 
   return (
@@ -87,7 +104,14 @@ export function NewsletterForm() {
           )}
         />
         
-        <Button type="submit" className="w-full bg-green-700 hover:bg-green-800">
+        <Button
+          type="submit"
+          className="w-full bg-green-700 hover:bg-green-800"
+          disabled={isLoading}
+        >
+          {isLoading ? (
+            <Loader2 className="mr-2 h-4 w-4 animate-spin" />
+          ) : null}
           {t("newsletter.subscribeButton")}
         </Button>
         
