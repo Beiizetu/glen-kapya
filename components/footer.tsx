@@ -3,6 +3,7 @@
 import { Separator } from "@/components/ui/separator"
 import { useLanguage } from "@/context/language-context"
 import Link from "next/link"
+import Script from "next/script"
 import { Facebook, Twitter, Instagram, Linkedin, Youtube } from "lucide-react"
 
 export default function Footer() {
@@ -105,6 +106,12 @@ export default function Footer() {
           </div>
         </div>
       </div>
+      <Script
+        src="https://beta.leadconnectorhq.com/loader.js"
+        data-resources-url="https://beta.leadconnectorhq.com/chat-widget/loader.js"
+        data-widget-id="685c0435d5f82521bfe795ed"
+        strategy="lazyOnload"
+      />
     </footer>
   )
 }
