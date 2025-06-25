@@ -1,0 +1,252 @@
+{
+  "general": {
+    "backToHome": "Rudi Nyumbani"
+  },
+  "navigation": {
+    "about": "Kuhusu",
+    "vision": "Maono",
+    "sikonge": "Sikonge",
+    "contact": "Mawasiliano",
+    "supportGlen": "Msaidie Glen"
+  },
+  "hero": {
+    "title": "Glen Kapya",
+    "subtitle": "Sauti Yako Bungeni",
+    "description": "Kiongozi Mwenye Uzoefu • Mwenye Uwezo wa Kuhamasisha • Anayejitolea kwa ajili ya Sikonge",
+    "learnVision": "Jifunze Maono Yangu",
+    "getInvolved": "Shiriki"
+  },
+  "stats": {
+    "yearsLeadership": "Miaka ya Uongozi",
+    "awardsHonors": "Tuzo na Heshima",
+    "sikongePopulation": "Idadi ya Watu Sikonge",
+    "commitment": "Kujitolea"
+  },
+  "about": {
+    "title": "Mimi ni Nani",
+    "subtitle": "Kiongozi wa asili mwenye uzoefu katika uhamasishaji, maendeleo ya biashara, na huduma kwa jamii.",
+    "personalBackground": "Historia Binafsi",
+    "personalSummary": "Hapa pana muhtasari mfupi kuhusu historia yangu binafsi, familia, na malezi yangu katika jimbo la Sikonge.",
+    "readMore": "Soma Zaidi",
+    "born": "Alizaliwa",
+    "education": "Elimu",
+    "primary": "Shule ya Msingi",
+    "secondary": "Shule ya Sekondari",
+    "university": "Chuo Kikuu",
+    "familyDetails": "Historia ya Familia",
+    "keyFacts": "Mambo Muhimu",
+    "keyFactsDescription": "Hatua muhimu na mafanikio katika safari yangu ya kibinafsi na kitaaluma."
+  },
+  "professional": {
+    "title": "Uzoefu wa Kitaaluma",
+    "summary": "Muhtasari wa safari yangu ya kitaaluma, ikijumuisha uzoefu wangu katika sekta mbalimbali na jinsi ulivyonijenga kuwa kiongozi.",
+    "readMore": "Soma Zaidi",
+    "current": "Sasa",
+    "currentDesc": "Maelezo ya kazi ya sasa",
+    "previous": "Awali",
+    "darletDesc": "Afisa Uuzaji wa DARLET GROUP - Alisimamia kampeni za uuzaji na maendeleo ya chapa.",
+    "barclaysDesc": "Mtafutaji wa Wateja wa Barclays Bank Tanzania - Alitengeneza fursa mpya za biashara na uhusiano na wateja.",
+    "cdsDesc": "Afisa Utafiti wa Huduma za Maendeleo ya Jamii - Alifanya tathmini ya mahitaji ya jamii na tathmini ya mipango."
+  },
+  "leadership": {
+    "title": "Historia ya Uongozi",
+    "subtitle": "Rekodi iliyothibitishwa ya uongozi katika mashirika mbalimbali."
+  },
+  "vision": {
+    "title": "Maono Yangu",
+    "subtitle": "Kwa Nini Nagombea Ubunge",
+    "naturalLeadership": "Uongozi wa Asili",
+    "quote": "Mimi ni Kiongozi wa Asili. Kwangu, Kuongoza na Kuhamasisha ni moja ya kazi rahisi zaidi na huwa naitoa asilimia mia moja. Nimefanya utafiti wa kina kuhusu kuwa Mbunge na kuchukua Siasa kama Kazi; Nimethibitisha, inakubaliana na Roho yangu!",
+    "threeFunctions": "Majukumu Makuu Matatu",
+    "representation": "Uwakilishi",
+    "oversight": "Usimamizi",
+    "legislation": "Utungaji Sheria",
+    "community": "Ushiriki wa Jamii",
+    "statementTitle": "Kauli ya Maono",
+    "statement": "Maono yangu ni kuibadilisha Sikonge kuwa jimbo la mfano linalotumia uwezo wake wa kilimo, kuwekeza katika ujuzi wa watu wake, na kujenga miundombinu ya kisasa ili kuunda fursa kwa wakazi wote. Ninaamini katika uongozi shirikishi unaowezesha jamii na kuhakikisha maendeleo yenye usawa katika kata zote.",
+    "pillarsTitle": "Nguzo Nne za Maono Yetu",
+    "pillar1": {
+      "title": "Mapinduzi ya Kilimo",
+      "description": "Kuboresha mbinu za kilimo, kuwezesha upatikanaji wa masoko, na kusaidia vyama vya ushirika ili kuongeza tija na mapato."
+    },
+    "pillar2": {
+      "title": "Elimu na Maendeleo ya Ujuzi",
+      "description": "Kuboresha miundombinu ya shule, kutoa mafunzo kwa walimu, na kuanzisha programu za ufundi stadi kuwaandaa vijana kwa siku zijazo."
+    },
+    "pillar3": {
+      "title": "Maendeleo ya Miundombinu",
+      "description": "Kuwekeza katika barabara, umeme, maji, na mawasiliano ya kidijitali ili kuchochea ukuaji wa uchumi."
+    },
+    "pillar4": {
+      "title": "Upatikanaji wa Huduma za Afya",
+      "description": "Kuboresha zahanati na vituo vya afya, kuongeza idadi ya watumishi, na kukuza huduma za kinga."
+    },
+    "policyAreasTitle": "Maeneo Muhimu ya Kisera",
+    "policy1": {
+      "title": "Maendeleo ya Kilimo",
+      "point1": "Kuanzisha huduma za ugani za kilimo katika kila kata.",
+      "point2": "Kurahisisha upatikanaji wa pembejeo bora na mikopo.",
+      "point3": "Kutengeneza miundombinu ya umwagiliaji kwa kilimo cha mwaka mzima."
+    },
+    "policy2": {
+      "title": "Mageuzi ya Elimu",
+      "point1": "Kukarabati na kuandaa shule za msingi na sekondari.",
+      "point2": "Kuanzisha vituo vya mafunzo ya ufundi.",
+      "point3": "Kutoa ufadhili kwa wanafunzi wenye mahitaji."
+    },
+    "policy3": {
+      "title": "Uboreshaji wa Afya",
+      "point1": "Kupandisha hadhi zahanati kuwa vituo vya afya.",
+      "point2": "Kuajiri na kuwahifadhi watumishi wa afya.",
+      "point3": "Kuanzisha kliniki tembezi kwa maeneo ya mbali."
+    },
+    "ctaTitle": "Ungana Nasi Kujenga Sikonge Bora",
+    "ctaDescription": "Maono haya yanahitaji juhudi za pamoja. Iwe kupitia mawazo, kazi ya kujitolea, au kusambaza neno, mchango wako ni muhimu sana.",
+    "ctaButton": "Shiriki"
+  },
+  "updates": {
+    "title": "Masasisho ya Hivi Punde",
+    "subtitle": "Fuatilia matukio na habari mpya za kampeni yetu.",
+    "update1": {
+      "title": "Mkutano na Wananchi wa Sikonge",
+      "date": "Juni 15, 2025",
+      "location": "Ukumbi wa Wilaya, Sikonge",
+      "attendees": "Waliohudhuria: Wananchi zaidi ya 200",
+      "description": "Mkutano wa ana kwa ana na wananchi wa Sikonge kujadili changamoto na kupokea maoni juu ya mipango ya maendeleo."
+    },
+    "update2": {
+      "title": "Warsha ya Uwezeshaji Vijana",
+      "date": "Juni 5, 2025",
+      "location": "Shule ya Sekondari ya Sikonge",
+      "attendees": "Waliohudhuria: Vijana 150",
+      "description": "Warsha ya kutoa mafunzo ya ujasiriamali na uongozi kwa vijana wa jimbo la Sikonge."
+    },
+    "update3": {
+      "title": "Ziara kwa Vyama vya Ushirika vya Wakulima",
+      "date": "Mei 28, 2025",
+      "location": "Kijiji cha Mabama, Sikonge",
+      "attendees": "Waliohudhuria: Wakulima zaidi ya 50",
+      "description": "Majadiliano na wakulima kuhusu changamoto za masoko na fursa za kuongeza thamani ya mazao."
+    },
+    "readMore": "Soma Zaidi",
+    "viewAll": "Tazama Masasisho Yote"
+  },
+  "newsletter": {
+    "title": "Jiunge na Jarida Letu",
+    "subtitle": "Jisajili ili kupokea taarifa muhimu na za kipekee moja kwa moja kwako.",
+    "benefit1": "Pata taarifa za haraka za kampeni",
+    "benefit2": "Fahamu kuhusu matukio yajayo",
+    "benefit3": "Pata uchambuzi wa kina wa sera zetu",
+    "nameLabel": "Jina Lako Kamili",
+    "namePlaceholder": "Weka jina lako hapa",
+    "emailLabel": "Anwani ya Barua Pepe",
+    "emailPlaceholder": "Weka barua pepe yako hapa",
+    "subscribeButton": "Jiandikishe Sasa",
+    "privacyNotice": "Tunaheshimu faragha yako. Hatutashiriki taarifa zako na mtu mwingine."
+  },
+  "sikonge": {
+    "title": "Kuhusu Sikonge",
+    "subtitle": "Fahamu Jimbo Letu Pendwa",
+    "geography": "Jiografia",
+    "demographics": "Demografia",
+    "economy": "Uchumi",
+    "challenges": "Changamoto na Fursa Muhimu",
+    "infrastructure": "Mahitaji ya Miundombinu",
+    "potential": "Uwezo wa Kimaendeleo",
+    "keyFacts": "Wilaya ya Sikonge ni moja ya wilaya saba za Mkoa wa Tabora nchini Tanzania. Mji wa Sikonge ndio makao makuu ya wilaya. Wilaya ina eneo la kilomita za mraba 27,873, lakini kilomita za mraba 26,834 zinamilikiwa na hifadhi za misitu na wanyamapori."
+  },
+  "awards": {
+    "title": "Tuzo na Utambuzi",
+    "subtitle": "Kutambuliwa kwa mchango katika uongozi na huduma kwa jamii",
+    "summary": "Orodha ya tuzo na heshima nilizopokea kutokana na mchango wangu katika uongozi na huduma kwa jamii.",
+    "readMore": "Soma Zaidi",
+    "award1": "Ubalozi wa Tanzania, Kenya (2014)",
+    "award1Desc": "Tuzo ya kutambua uongozi bora na huduma kwa jamii.",
+    "award2": "Chama cha Wanafunzi wa Tanzania nchini Kenya (2014)",
+    "award2Desc": "Tuzo ya kutambua uongozi mahiri wa wanafunzi.",
+    "award3": "Baraza la Uingereza, Cape Town (2009)",
+    "award3Desc": "Tuzo ya kutambua mchango katika mahusiano ya kitamaduni na uongozi."
+  },
+  "contact": {
+    "title": "Wasiliana Nasi",
+    "subtitle": "Jiunge na harakati za kuleta mabadiliko chanya Sikonge.",
+    "addressTitle": "Anwani",
+    "address": "Usupilo, Misheni\nSikonge, Tabora",
+    "phoneTitle": "Simu",
+    "phone": "+255 123 456 789\n+255 987 654 321",
+    "emailTitle": "Barua Pepe",
+    "email": "info@glenkapya.com\nkampeni@glenkapya.com",
+    "hoursTitle": "Saa za Kazi",
+    "hoursWeekdays": "Jumatatu-Ijumaa: 8:00 asubuhi - 5:00 jioni",
+    "hoursWeekends": "Jumamosi: 9:00 asubuhi - 1:00 jioni",
+    "volunteerFullTime": "Muda wote",
+    "volunteerPartTime": "Muda wa ziada",
+    "volunteerWeekends": "Mwisho wa Juma",
+    "volunteerFlexible": "Muda wowote",
+    "contactInfo": "Taarifa za Mawasiliano",
+    "supportCampaign": "Saidia Kampeni",
+    "volunteer": "Jitolee Nasi",
+    "spreadWord": "Sambaza Neno",
+    "joinEvents": "Shiriki Matukio",
+    "detailsRequest": "Taarifa za mawasiliano zinapatikana kwa ombi.",
+    "emailComing": "Barua pepe rasmi ya kampeni itatangazwa hivi karibuni.",
+    "sendMessage": "Tutumie Ujumbe",
+    "formName": "Jina Kamili",
+    "formNamePlaceholder": "Andika jina lako kamili",
+    "formEmail": "Barua Pepe",
+    "formEmailPlaceholder": "Andika barua pepe yako",
+    "formPhone": "Namba ya Simu",
+    "formPhonePlaceholder": "Andika namba yako ya simu",
+    "formMessage": "Ujumbe Wako",
+    "formMessagePlaceholder": "Andika ujumbe wako hapa...",
+    "formSubmit": "Tuma Ujumbe",
+    "submitting": "Inatumwa...",
+    "submitSuccess": "Ujumbe umetumwa kikamilifu!",
+    "submitError": "Kosa katika kutuma fomu. Tafadhali jaribu tena.",
+    "volunteerTitle": "Fomu ya Kujitolea",
+    "volunteerDescription": "Jiunge na timu yetu ya watu waliojitolea kuleta mabadiliko.",
+    "volunteerLocation": "Eneo Unaloishi",
+    "volunteerLocationPlaceholder": "Mfano: Kata ya Sikonge",
+    "volunteerAvailability": "Upatikanaji Wako",
+    "volunteerAvailabilityPlaceholder": "Ni lini unapendelea kujitolea?",
+    "volunteerSkills": "Ujuzi/Mambo Unayopenda",
+    "volunteerSkillsPlaceholder": "Orodhesha ujuzi wako (k.m., kuhamasisha, kuandika)",
+    "volunteerSubmit": "Wasilisha Maombi"
+  },
+  "footer": {
+    "title": "Glen Kapya kwa Ubunge",
+    "subtitle": "Sauti Yako • Mustakabali Wako • Mwakilishi Wako",
+    "mission": "Kuwawezesha wananchi wa Sikonge kupitia uwakilishi wa dhati na maendeleo yanayolenga jamii.",
+    "links": {
+      "about": "Kuhusu Glen",
+      "bio": "Wasifu",
+      "vision": "Maono",
+      "leadership": "Uongozi",
+      "sikonge": "Kuhusu Sikonge",
+      "geography": "Jiografia",
+      "demographics": "Demografia",
+      "economy": "Uchumi",
+      "getInvolved": "Shiriki",
+      "volunteer": "Jitolee",
+      "donate": "Changia",
+      "events": "Matukio"
+    },
+    "newsletter": "Pata Taarifa",
+    "newsletterDesc": "Jiandikishe kwenye jarida letu kwa habari za kampeni.",
+    "emailPlaceholder": "Anwani yako ya barua pepe",
+    "subscribe": "Jiandikishe",
+    "copyright": "© 2024 Kampeni ya Glen Kapya. Imeidhinishwa na Glen Kapya, Jimbo la Sikonge.",
+    "privacy": "Sera ya Faragha",
+    "terms": "Vigezo na Masharti",
+    "accessibility": "Ufikivu"
+  },
+  "language": {
+    "en": "English",
+    "sw": "Kiswahili",
+    "switch": "Badilisha Lugha"
+  },
+  "blog": {
+    "title": "Blogu",
+    "comingSoon": "Maudhui ya blogu yanakuja hivi karibuni..."
+  }
+}
