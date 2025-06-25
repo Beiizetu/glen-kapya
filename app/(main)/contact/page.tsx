@@ -54,8 +54,7 @@ export default function ContactPage() {
                     <Phone className="w-5 h-5 text-green-700 mr-3 mt-1 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold">{t("contact.phoneTitle")}</h3>
-                      <p className="text-gray-700">+255 123 456 789</p>
-                      <p className="text-gray-700">+255 987 654 321</p>
+                      <p className="text-gray-700">+255 763 011 755</p>
                     </div>
                   </div>
                   

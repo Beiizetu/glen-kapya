@@ -50,7 +50,23 @@
   },
   "leadership": {
     "title": "Leadership Background",
-    "subtitle": "Proven track record of leadership across multiple organizations"
+    "subtitle": "Proven track record of leadership across multiple organizations",
+    "role1": {
+      "title": "Justice Ministry",
+      "duration": "2018-present"
+    },
+    "role2": {
+      "title": "USIU-Africa Alumni Tanzania",
+      "duration": "2019-present"
+    },
+    "role3": {
+      "title": "TASAKE",
+      "duration": "2013-2014"
+    },
+    "role4": {
+      "title": "CCM National Campaigns",
+      "duration": "2015"
+    }
   },
   "vision": {
     "title": "My Vision",
@@ -175,7 +191,7 @@
     "addressTitle": "Address",
     "address": "Usupilo, Misheni\nSikonge, Tabora",
     "phoneTitle": "Phone",
-    "phone": "+255 123 456 789\n+255 987 654 321",
+    "phone": "+255 763 011 755",
     "emailTitle": "Email",
     "email": "info@glenkapya.com\ncampaign@glenkapya.com",
     "hoursTitle": "Working Hours",
@@ -237,7 +253,7 @@
     "newsletterDesc": "Subscribe to our newsletter for campaign updates",
     "emailPlaceholder": "Your email",
     "subscribe": "Subscribe",
-    "copyright": "© 2024 Glen Kapya Campaign. Authorized by Glen Kapya, Sikonge Constituency.",
+    "copyright": "© 2025 Glen Kapya Campaign. Authorized by Glen Kapya, Sikonge Constituency.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "accessibility": "Accessibility"

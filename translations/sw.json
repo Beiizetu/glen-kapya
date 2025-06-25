@@ -12,7 +12,7 @@
   "hero": {
     "title": "Glen Kapya",
     "subtitle": "Sauti Yako Bungeni",
-    "description": "Kiongozi Mwenye Uzoefu • Mwenye Uwezo wa Kuhamasisha • Anayejitolea kwa ajili ya Sikonge",
+    "description": "Kiongozi Mwenye Uzoefu • Mwenye Uwezo wa Kuhamasisha • Aliyejitoa kwa ajili ya Sikonge",
     "learnVision": "Jifunze Maono Yangu",
     "getInvolved": "Shiriki"
   },
@@ -50,7 +50,23 @@
   },
   "leadership": {
     "title": "Historia ya Uongozi",
-    "subtitle": "Rekodi iliyothibitishwa ya uongozi katika mashirika mbalimbali."
+    "subtitle": "Rekodi iliyothibitishwa ya uongozi katika mashirika mbalimbali.",
+    "role1": {
+      "title": "Wizara ya Sheria",
+      "duration": "2018-hadi sasa"
+    },
+    "role2": {
+      "title": "USIU-Africa Alumni Tanzania",
+      "duration": "2019-hadi sasa"
+    },
+    "role3": {
+      "title": "TASAKE",
+      "duration": "2013-2014"
+    },
+    "role4": {
+      "title": "Kampeni za Kitaifa za CCM",
+      "duration": "2015"
+    }
   },
   "vision": {
     "title": "Maono Yangu",
@@ -173,7 +189,7 @@
     "addressTitle": "Anwani",
     "address": "Usupilo, Misheni\nSikonge, Tabora",
     "phoneTitle": "Simu",
-    "phone": "+255 123 456 789\n+255 987 654 321",
+    "phone": "+255 763 011 755",
     "emailTitle": "Barua Pepe",
     "email": "info@glenkapya.com\nkampeni@glenkapya.com",
     "hoursTitle": "Saa za Kazi",
@@ -235,7 +251,7 @@
     "newsletterDesc": "Jiandikishe kwenye jarida letu kwa habari za kampeni.",
     "emailPlaceholder": "Anwani yako ya barua pepe",
     "subscribe": "Jiandikishe",
-    "copyright": "© 2024 Kampeni ya Glen Kapya. Imeidhinishwa na Glen Kapya, Jimbo la Sikonge.",
+    "copyright": "© 2025 Kampeni ya Glen Kapya. Imeidhinishwa na Glen Kapya, Jimbo la Sikonge.",
     "privacy": "Sera ya Faragha",
     "terms": "Vigezo na Masharti",
     "accessibility": "Ufikivu"

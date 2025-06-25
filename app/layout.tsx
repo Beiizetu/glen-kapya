@@ -1,6 +1,7 @@
 "use client"
 
 import { Inter } from 'next/font/google'
+import { usePathname } from 'next/navigation'
 import './globals.css'
 import { LanguageProvider } from '@/context/language-context'
 import Navbar from '@/components/navbar'
@@ -18,11 +19,11 @@ export default function RootLayout({
       <body className={inter.className}>
         <LanguageProvider>
           <div className="min-h-screen flex flex-col">
-            <Navbar />
+            {!usePathname()?.startsWith('/admin') && <Navbar />}
             <main className="flex-grow">
               {children}
             </main>
-            <Footer />
+            {!usePathname()?.startsWith('/admin') && <Footer />}
           </div>
         </LanguageProvider>
         <script

@@ -75,9 +75,6 @@ export default function AboutPage() {
                     </ul>
                   </div>
                   <div>
-                    <p>
-                      <strong>{t("about.family")}:</strong>
-                    </p>
                     <p className="text-sm">{t("about.familyDetails")}</p>
                   </div>
 
@@ -139,10 +136,9 @@ export default function AboutPage() {
                 <CardContent>
                   <div className="grid md:grid-cols-2 gap-4">
                     {[
-                      { role: t("leadership.role1"), org: "Time for Justice Ministry", period: "2018-present" },
-                      { role: t("leadership.role2"), org: "USIU-Africa Alumni Tanzania", period: "2019-present" },
-                      { role: t("leadership.role3"), org: "TASAKE", period: "2013-2014" },
-                      { role: t("leadership.role4"), org: "CCM National Campaigns", period: "2015" },
+                      { role: t("Leadership Role 1"), org: "USIU-Africa Alumni Tanzania", period: "2019-present" },
+                      { role: t("Leadership Role 2"), org: "TASAKE", period: "2013-2014" },
+                      { role: t("Leadership Role 3"), org: "CCM National Campaigns", period: "2015" },
                     ].map((item, index) => (
                       <div key={index} className="border rounded-lg p-4 hover:bg-green-50 transition-colors">
                         <h3 className="font-semibold text-green-700">{item.role}</h3>
